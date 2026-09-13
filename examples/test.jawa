@@ -22,7 +22,7 @@ y = teksDadiInteger("123");
 x = teksDadiDesimal("1.23");
 
 // const
-tetep jeneng = "Iron Man";
+paten jeneng = "Iron Man";
 
 // function
 fungsi tambah(a, b) {

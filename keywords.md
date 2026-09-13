@@ -8,7 +8,6 @@ Kamus terpusat di `src/keywords.js`.
 | ------------- | ------------- |
 | `ono`         | `let`         |
 | `paten`       | `const`       |
-| `tetep`       | `const`       |
 | `tampilno`    | `console.log` |
 | `yen`         | `if`          |
 | `ora yen`  | `else if`     |

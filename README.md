@@ -77,7 +77,6 @@ Semua kata terpusat di **`src/keywords.js`** — untuk ganti/tambah kata cukup e
 | ------------- | ------------- |
 | `ono`         | `let`         |
 | `paten`       | `const`       |
-| `tetep`       | `const`       |
 | `tampilno`    | `console.log` |
 | `yen`         | `if`          |
 | `ora yen`  | `else if`     |

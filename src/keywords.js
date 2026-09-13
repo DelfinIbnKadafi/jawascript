@@ -20,7 +20,6 @@ export const KEYWORDS = [
   ["enteni", "await"],
   ["anyar", "new"],
   ["paten", "const"],
-  ["tetep", "const"],
   ["ono", "let"],
   ["tampilno", "console.log"],
   ["rajelas", "undefined"],
